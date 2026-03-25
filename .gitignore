@@ -1,5 +1,14 @@
 .DS_Store
 node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+.turbo/
 .env
 .env.local
 *.log
+server/*.db
+server/data/
+server/data/*.db
+client/.env
+server/.env
